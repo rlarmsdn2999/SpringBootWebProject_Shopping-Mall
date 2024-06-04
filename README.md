@@ -28,5 +28,13 @@
     +  상품 주문 / 주문 내역 조회 / 주문 취소
 +  장바구니(Cart)
     +  장바구니 담기 / 장바구니 조회 / 장바구니 삭제 / 장바구니 상품 주문
-
+***
+# 5. DataBase 모델링
 ![1](https://github.com/rlarmsdn2999/SpringBootWebProject_Shopping-Mall/assets/110002604/d1d597f0-5354-4ff0-b6cd-d3e280ca632d)
++  member - 쇼핑몰 회원 정보 테이블
++  cart - 회원의 장바구니 목록 테이블
++  cart_item - 장바구니에 담긴 상품 정보 테이블
++  orders - 쇼핑몰 회원들의 주문 목록 테이블
++ order_item - 쇼핑몰 상품 정보 테이블
++ item - 쇼핑몰 상품 정보 테이블
++ item_img - 상품에 대한 이미지 정보를 담고 있는 테이블
