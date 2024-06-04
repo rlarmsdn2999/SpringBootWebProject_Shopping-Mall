@@ -19,3 +19,12 @@
     +  Spring Boot, Spring Secutiry, Spring Data JPA
 +  DataBase
     +  Hibernate, MariaDB
+# 4. 프로젝트 구현 기능
++  회원(Member)
+    +  회원가입 / 로그인 및 로그아웃
++  상품(Item)
+    +  상품 등록 / 상품 관리 / 상품 수정 / 상품 조회 / 상품 상세 페이지
++  주문(Order)
+    +  상품 주문 / 주문 내역 조회 / 주문 취소
++  장바구니(Cart)
+    +  장바구니 담기 / 장바구니 조회 / 장바구니 삭제 / 장바구니 상품 주문
