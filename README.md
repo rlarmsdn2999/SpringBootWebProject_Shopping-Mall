@@ -42,3 +42,5 @@
 ***
 # 6. API 명세서
 ![2](https://github.com/rlarmsdn2999/SpringBootWebProject_Shopping-Mall/assets/110002604/e047074e-1090-403f-ae7f-92a3bf7340f7)
+***
+# 7. [프로젝트 내용](https://famous-sing-446.notion.site/SpringBoot-Shopping-Mall-8c2799227ddd4509896a9f4f3bebe5bf?pvs=74)
