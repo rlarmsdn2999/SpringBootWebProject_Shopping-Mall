@@ -19,6 +19,7 @@
     +  Spring Boot, Spring Secutiry, Spring Data JPA
 +  DataBase
     +  Hibernate, MariaDB
+***
 # 4. 프로젝트 구현 기능
 +  회원(Member)
     +  회원가입 / 로그인 및 로그아웃
