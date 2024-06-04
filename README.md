@@ -39,3 +39,6 @@
 + order_item - 쇼핑몰 상품 정보 테이블
 + item - 쇼핑몰 상품 정보 테이블
 + item_img - 상품에 대한 이미지 정보를 담고 있는 테이블
+***
+# 6. API 명세서
+![2](https://github.com/rlarmsdn2999/SpringBootWebProject_Shopping-Mall/assets/110002604/e047074e-1090-403f-ae7f-92a3bf7340f7)
